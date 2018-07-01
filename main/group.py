@@ -1,5 +1,5 @@
 import xml.etree.ElementTree as ET
-
+from xml.dom import minidom
 class Group:
 	"""docstring for Group"""
 	def __init__(self,id):
@@ -61,6 +61,12 @@ class Group:
 			mydata = ET.tostring(posts)
 			xmlfile = open("posts.xml","w")
 			xmlfile.write(str(mydata))
+	def toDb(self):
+		md = minidom.parse('posts.xml')
+		posts = md.getElementsByTagName('post')
+		for i in posts:
+			print(i.attributes['title'].value)
+			#chlidnodes we have time -> 0, person -> 1, imagesUrls -> 2 
+			print(i.childNodes[0].attributes['timeT'].value)
 	def __repr__(self):
 		return str(self.__dict__)
-			

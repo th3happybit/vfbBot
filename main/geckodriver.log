@@ -518,3 +518,12 @@ JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2
 JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fweb.facebook.com, line 1: TypeError: o is null
 JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fweb.facebook.com, line 1: TypeError: o is null
 1530247718958	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530281835494	geckodriver	INFO	geckodriver 0.20.1
+1530281835501	geckodriver	INFO	Listening on 127.0.0.1:46917
+1530281836541	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5JxoSYwySQzD"
+1530281836986	Marionette	INFO	Enabled via --marionette
+1530281838310	Marionette	INFO	Listening on port 44605
+1530281838356	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530281878150	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
