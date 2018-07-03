@@ -59,8 +59,8 @@ class Group:
 		print(posts)
 		if posts is not None:
 			mydata = ET.tostring(posts)
-			xmlfile = open("posts.xml","w")
-			xmlfile.write(str(mydata))
+			xmlfile = open("posts.xml","w","utf-8")
+			xmlfile.write(mydata)
 	def toDb(self):
 		md = minidom.parse('posts.xml')
 		posts = md.getElementsByTagName('post')
