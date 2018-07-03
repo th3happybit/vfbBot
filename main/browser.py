@@ -14,13 +14,14 @@ from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.support.ui import WebDriverWait
 from person import Person
 from post import FullPost
-
+from selenium.webdriver.firefox.options import Options
 class Browser:
 	"""docstring for Browser"""
 	delay = 15
 	def __init__(self):
-		self.browser = webdriver.Firefox()
-		#self.browser = webdriver.PhantomJS()
+		options = Options()
+		options.set_headless(headless=True)
+		self.browser = webdriver.Firefox(firefox_options=options)
 	def navigate(self, url, wait_for, error):
 		try:
 			print('Navigating to: ' + url)

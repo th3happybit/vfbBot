@@ -527,3 +527,133 @@ JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2
 1530281878150	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
 JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
 JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+1530658073129	geckodriver	INFO	geckodriver 0.20.1
+1530658073141	geckodriver	INFO	Listening on 127.0.0.1:49021
+1530658074179	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.fYCfdKuDPZvs"
+*** You are running in headless mode.
+1530658074910	Marionette	INFO	Enabled via --marionette
+1530658076288	Marionette	INFO	Listening on port 34591
+1530658076390	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530658117184	geckodriver	INFO	geckodriver 0.20.1
+1530658117200	geckodriver	INFO	Listening on 127.0.0.1:41409
+1530658118393	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.ad3GQDbSer7o"
+*** You are running in headless mode.
+1530658119148	Marionette	INFO	Enabled via --marionette
+1530658120534	Marionette	INFO	Listening on port 34577
+1530658120610	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fweb.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fweb.facebook.com, line 1: TypeError: o is null
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhEXlUPKTu.js, line 23: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhEXlUPKTu.js, line 23: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhEXlUPKTu.js, line 23: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhEXlUPKTu.js, line 23: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhEXlUPKTu.js, line 23: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhEXlUPKTu.js, line 23: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhEXlUPKTu.js, line 23: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhEXlUPKTu.js, line 23: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i47R4/yi/l/en_GB/WWy6VoGySXJ.js, line 79: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i47R4/yi/l/en_GB/WWy6VoGySXJ.js, line 79: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i47R4/yi/l/en_GB/WWy6VoGySXJ.js, line 79: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i47R4/yi/l/en_GB/WWy6VoGySXJ.js, line 79: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhEXlUPKTu.js, line 23: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhEXlUPKTu.js, line 23: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhEXlUPKTu.js, line 23: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhEXlUPKTu.js, line 23: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i47R4/yi/l/en_GB/WWy6VoGySXJ.js, line 79: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i47R4/yi/l/en_GB/WWy6VoGySXJ.js, line 79: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i47R4/yi/l/en_GB/WWy6VoGySXJ.js, line 79: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i47R4/yi/l/en_GB/WWy6VoGySXJ.js, line 79: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhEXlUPKTu.js, line 23: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhEXlUPKTu.js, line 23: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhEXlUPKTu.js, line 23: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhEXlUPKTu.js, line 23: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i47R4/yi/l/en_GB/WWy6VoGySXJ.js, line 79: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i47R4/yi/l/en_GB/WWy6VoGySXJ.js, line 79: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i47R4/yi/l/en_GB/WWy6VoGySXJ.js, line 79: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i47R4/yi/l/en_GB/WWy6VoGySXJ.js, line 79: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i47R4/yi/l/en_GB/WWy6VoGySXJ.js, line 79: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i47R4/yi/l/en_GB/WWy6VoGySXJ.js, line 79: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i47R4/yi/l/en_GB/WWy6VoGySXJ.js, line 79: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i47R4/yi/l/en_GB/WWy6VoGySXJ.js, line 79: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhEXlUPKTu.js, line 23: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhEXlUPKTu.js, line 23: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhEXlUPKTu.js, line 23: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhEXlUPKTu.js, line 23: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i47R4/yi/l/en_GB/WWy6VoGySXJ.js, line 79: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i47R4/yi/l/en_GB/WWy6VoGySXJ.js, line 79: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i47R4/yi/l/en_GB/WWy6VoGySXJ.js, line 79: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i47R4/yi/l/en_GB/WWy6VoGySXJ.js, line 79: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhEXlUPKTu.js, line 23: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhEXlUPKTu.js, line 23: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhEXlUPKTu.js, line 23: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhEXlUPKTu.js, line 23: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i47R4/yi/l/en_GB/WWy6VoGySXJ.js, line 79: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i47R4/yi/l/en_GB/WWy6VoGySXJ.js, line 79: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i47R4/yi/l/en_GB/WWy6VoGySXJ.js, line 79: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i47R4/yi/l/en_GB/WWy6VoGySXJ.js, line 79: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhEXlUPKTu.js, line 23: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhEXlUPKTu.js, line 23: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhEXlUPKTu.js, line 23: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhEXlUPKTu.js, line 23: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i47R4/yi/l/en_GB/WWy6VoGySXJ.js, line 79: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i47R4/yi/l/en_GB/WWy6VoGySXJ.js, line 79: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i47R4/yi/l/en_GB/WWy6VoGySXJ.js, line 79: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i47R4/yi/l/en_GB/WWy6VoGySXJ.js, line 79: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhEXlUPKTu.js, line 23: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhEXlUPKTu.js, line 23: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhEXlUPKTu.js, line 23: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhEXlUPKTu.js, line 23: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i47R4/yi/l/en_GB/WWy6VoGySXJ.js, line 79: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i47R4/yi/l/en_GB/WWy6VoGySXJ.js, line 79: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i47R4/yi/l/en_GB/WWy6VoGySXJ.js, line 79: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i47R4/yi/l/en_GB/WWy6VoGySXJ.js, line 79: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhEXlUPKTu.js, line 23: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhEXlUPKTu.js, line 23: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhEXlUPKTu.js, line 23: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhEXlUPKTu.js, line 23: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i47R4/yi/l/en_GB/WWy6VoGySXJ.js, line 79: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i47R4/yi/l/en_GB/WWy6VoGySXJ.js, line 79: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i47R4/yi/l/en_GB/WWy6VoGySXJ.js, line 79: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i47R4/yi/l/en_GB/WWy6VoGySXJ.js, line 79: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhEXlUPKTu.js, line 23: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhEXlUPKTu.js, line 23: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhEXlUPKTu.js, line 23: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhEXlUPKTu.js, line 23: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
