@@ -20,7 +20,7 @@ class Browser:
 	delay = 15
 	def __init__(self):
 		self.browser = webdriver.Firefox()
-
+		#self.browser = webdriver.PhantomJS()
 	def navigate(self, url, wait_for, error):
 		try:
 			print('Navigating to: ' + url)
