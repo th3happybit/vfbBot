@@ -21,6 +21,7 @@ class Browser:
 	def __init__(self):
 		options = Options()
 		options.set_headless(headless=True)
+		time.sleep(10)
 		self.browser = webdriver.Firefox(firefox_options=options)
 	def navigate(self, url, wait_for, error):
 		try:
