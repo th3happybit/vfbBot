@@ -1,0 +1,1 @@
+python main/__main__.py
