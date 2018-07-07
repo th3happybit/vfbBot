@@ -1,2 +1,2 @@
 selenium==3.0.1
-BeautifulSoup
+BeautifulSoup==3.2.1
