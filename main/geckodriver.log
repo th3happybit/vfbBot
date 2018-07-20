@@ -657,3 +657,175 @@ JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhE
 JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhEXlUPKTu.js, line 23: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
 JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/rkhEXlUPKTu.js, line 23: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
 * Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1532077225929	geckodriver	INFO	geckodriver 0.20.1
+1532077225941	geckodriver	INFO	Listening on 127.0.0.1:45193
+1532077226217	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.rUTzgGmaVrv5"
+*** You are running in headless mode.
+1532077226882	Marionette	INFO	Enabled via --marionette
+1532077228192	Marionette	INFO	Listening on port 33981
+1532077228228	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 25707, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532077417332	geckodriver	INFO	geckodriver 0.20.1
+1532077417339	geckodriver	INFO	Listening on 127.0.0.1:60329
+1532077418434	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.kjzyZACyQICj"
+*** You are running in headless mode.
+1532077418906	Marionette	INFO	Enabled via --marionette
+1532077420156	Marionette	INFO	Listening on port 35223
+1532077420244	Marionette	WARN	TLS certificate errors will be ignored for this session
+1532077743528	geckodriver	INFO	geckodriver 0.20.1
+1532077743535	geckodriver	INFO	Listening on 127.0.0.1:53343
+1532077743677	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.o1eu34GQREw8"
+*** You are running in headless mode.
+1532077744128	Marionette	INFO	Enabled via --marionette
+1532077745272	Marionette	INFO	Listening on port 44867
+1532077745288	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fweb.facebook.com, line 1: TypeError: i is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fweb.facebook.com, line 1: TypeError: i is null
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yx/l/en_GB/oNPG7r3962_.js, line 23: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yx/l/en_GB/oNPG7r3962_.js, line 23: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yx/l/en_GB/oNPG7r3962_.js, line 23: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yx/l/en_GB/oNPG7r3962_.js, line 23: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1532078253144	geckodriver	INFO	geckodriver 0.20.1
+1532078253155	geckodriver	INFO	Listening on 127.0.0.1:59151
+1532078254392	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.DYMNDVi2ug1L"
+*** You are running in headless mode.
+1532078255138	Marionette	INFO	Enabled via --marionette
+1532078256572	Marionette	INFO	Listening on port 40869
+1532078256604	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 27114, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1532078359051	geckodriver	INFO	geckodriver 0.20.1
+1532078359060	geckodriver	INFO	Listening on 127.0.0.1:36099
+1532078359223	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.9jXgRZUZOgI2"
+*** You are running in headless mode.
+1532078359838	Marionette	INFO	Enabled via --marionette
+1532078361096	Marionette	INFO	Listening on port 40313
+1532078361134	Marionette	WARN	TLS certificate errors will be ignored for this session
+1532078573902	geckodriver	INFO	geckodriver 0.20.1
+1532078573909	geckodriver	INFO	Listening on 127.0.0.1:50543
+1532078574178	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.9Xzvkyl9a3O9"
+*** You are running in headless mode.
+1532078574912	Marionette	INFO	Enabled via --marionette
+1532078576272	Marionette	INFO	Listening on port 37601
+1532078576300	Marionette	WARN	TLS certificate errors will be ignored for this session
+1532078689411	geckodriver	INFO	geckodriver 0.20.1
+1532078689430	geckodriver	INFO	Listening on 127.0.0.1:32785
+1532078691788	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.oAOsuEBEQAL0"
+*** You are running in headless mode.
+1532078692646	Marionette	INFO	Enabled via --marionette
+1532078693870	Marionette	INFO	Listening on port 37737
+1532078693900	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 27958, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1532078731072	geckodriver	INFO	geckodriver 0.20.1
+1532078731118	geckodriver	INFO	Listening on 127.0.0.1:54529
+1532078732623	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.v2f9tMBVD8on"
+*** You are running in headless mode.
+1532078733840	Marionette	INFO	Enabled via --marionette
+1532078736458	Marionette	INFO	Listening on port 44877
+1532078736562	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1532078979051	geckodriver	INFO	geckodriver 0.20.1
+1532078979059	geckodriver	INFO	Listening on 127.0.0.1:40515
+1532078980215	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.MZVvcLc56DFF"
+*** You are running in headless mode.
+1532078980916	Marionette	INFO	Enabled via --marionette
+1532078982494	Marionette	INFO	Listening on port 45687
+1532078982532	Marionette	WARN	TLS certificate errors will be ignored for this session
+1532079555387	geckodriver	INFO	geckodriver 0.20.1
+1532079555399	geckodriver	INFO	Listening on 127.0.0.1:39389
+1532079555618	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.Iszo58nUfEhZ"
+*** You are running in headless mode.
+1532079556262	Marionette	INFO	Enabled via --marionette
+1532079557704	Marionette	INFO	Listening on port 46495
+1532079557730	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fweb.facebook.com, line 1: TypeError: i is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fweb.facebook.com, line 1: TypeError: i is null
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yg/r/5yTsypDWZef.js, line 4: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yg/r/5yTsypDWZef.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yg/r/5yTsypDWZef.js, line 4: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yg/r/5yTsypDWZef.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yx/l/en_GB/oNPG7r3962_.js, line 23: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yx/l/en_GB/oNPG7r3962_.js, line 23: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yx/l/en_GB/oNPG7r3962_.js, line 23: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yx/l/en_GB/oNPG7r3962_.js, line 23: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1532080713026	geckodriver	INFO	geckodriver 0.20.1
+1532080713044	geckodriver	INFO	Listening on 127.0.0.1:39317
+1532080714331	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.xXhhqZPVHfZk"
+*** You are running in headless mode.
+1532080715418	Marionette	INFO	Enabled via --marionette
+1532080718892	Marionette	INFO	Listening on port 40753
+1532080721714	Marionette	WARN	TLS certificate errors will be ignored for this session
+1532081534403	geckodriver	INFO	geckodriver 0.20.1
+1532081534438	geckodriver	INFO	Listening on 127.0.0.1:59383
+1532081534811	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.4mezHuSypT95"
+*** You are running in headless mode.
+1532081535582	Marionette	INFO	Enabled via --marionette
+1532081537636	Marionette	INFO	Listening on port 36965
+1532081537730	Marionette	WARN	TLS certificate errors will be ignored for this session
+1532081659157	geckodriver	INFO	geckodriver 0.20.1
+1532081659186	geckodriver	INFO	Listening on 127.0.0.1:48317
+1532081660321	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.TnxDdi91KO6R"
+*** You are running in headless mode.
+1532081661104	Marionette	INFO	Enabled via --marionette
+1532081662960	Marionette	INFO	Listening on port 45265
+1532081663000	Marionette	WARN	TLS certificate errors will be ignored for this session
+1532081901119	geckodriver	INFO	geckodriver 0.20.1
+1532081901133	geckodriver	INFO	Listening on 127.0.0.1:53031
+1532081901452	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.PZ3MW0p9jm3o"
+*** You are running in headless mode.
+1532081902352	Marionette	INFO	Enabled via --marionette
+1532081903988	Marionette	INFO	Listening on port 32985
+1532081904068	Marionette	WARN	TLS certificate errors will be ignored for this session
+1532082589485	geckodriver	INFO	geckodriver 0.20.1
+1532082589492	geckodriver	INFO	Listening on 127.0.0.1:60957
+1532082589744	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.uOikpR3u7ZUE"
+*** You are running in headless mode.
+1532082592022	Marionette	INFO	Enabled via --marionette
+1532082599356	Marionette	INFO	Listening on port 39733
+1532082599476	Marionette	WARN	TLS certificate errors will be ignored for this session
+1532082778607	geckodriver	INFO	geckodriver 0.20.1
+1532082778614	geckodriver	INFO	Listening on 127.0.0.1:51999
+1532082778899	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.eIFfgW9kMsI4"
+*** You are running in headless mode.
+1532082780222	Marionette	INFO	Enabled via --marionette
+1532082783340	Marionette	INFO	Listening on port 37299
+1532082783418	Marionette	WARN	TLS certificate errors will be ignored for this session
+1532083157618	geckodriver	INFO	geckodriver 0.20.1
+1532083157631	geckodriver	INFO	Listening on 127.0.0.1:45865
+1532083157921	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.sFQRhFOYuGxW"
+*** You are running in headless mode.
+1532083158594	Marionette	INFO	Enabled via --marionette
+1532083159876	Marionette	INFO	Listening on port 36129
+1532083159936	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 801, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532083250365	geckodriver	INFO	geckodriver 0.20.1
+1532083250376	geckodriver	INFO	Listening on 127.0.0.1:58355
+1532083250456	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.KWmqlhIwMegQ"
+*** You are running in headless mode.
+1532083250900	Marionette	INFO	Enabled via --marionette
+1532083252008	Marionette	INFO	Listening on port 38253
+1532083252072	Marionette	WARN	TLS certificate errors will be ignored for this session
+1532083292543	geckodriver	INFO	geckodriver 0.20.1
+1532083292550	geckodriver	INFO	Listening on 127.0.0.1:53837
+1532083293584	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.8v5rKo6tOGH3"
+*** You are running in headless mode.
+1532083294046	Marionette	INFO	Enabled via --marionette
+1532083295200	Marionette	INFO	Listening on port 37825
+1532083295292	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1532083484718	geckodriver	INFO	geckodriver 0.20.1
+1532083484729	geckodriver	INFO	Listening on 127.0.0.1:37917
+1532083484802	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.leGuM4S62yNr"
+*** You are running in headless mode.
+1532083485246	Marionette	INFO	Enabled via --marionette
+1532083486342	Marionette	INFO	Listening on port 35539
+1532083486412	Marionette	WARN	TLS certificate errors will be ignored for this session

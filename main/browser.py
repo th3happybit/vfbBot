@@ -3,6 +3,8 @@ import random
 import sys
 import time
 import unicodedata
+from os import listdir
+from os.path import isfile, join
 from bs4 import BeautifulSoup
 from post import Post
 from selenium import webdriver
@@ -15,14 +17,16 @@ from selenium.webdriver.support.ui import WebDriverWait
 from person import Person
 from post import FullPost
 from selenium.webdriver.firefox.options import Options
+
 class Browser:
 	"""docstring for Browser"""
 	delay = 15
 	def __init__(self):
 		options = Options()
 		options.set_headless(headless=True)
-		time.sleep(10)
+		time.sleep(1)
 		self.browser = webdriver.Firefox(firefox_options=options)
+		print('browser started')
 	def navigate(self, url, wait_for, error):
 		try:
 			print('Navigating to: ' + url)
@@ -101,7 +105,7 @@ class Browser:
 				post  = Post(img,title,link,price,desc,location)
 				group.posts.append(post)
 		except Exception:
-			print 'Error in getting posts'
+			print('Error in getting posts')
 		print(group.posts[0])
 
 	def getPostsv2(self,group):
@@ -152,9 +156,12 @@ class Browser:
 				post  = FullPost(images,title,link,price,desc,location,time,person)
 				print(post.__repr__())
 				group.posts.append(post)
-	def updatePosts(self,group):
-		pass
-
+	def listgroups(self):
+		groupsXml = [f for f in listdir('posts') if isfile(join('posts', f))]
+		glist = []
+		for xml in groupsXml:
+			glist.append((xml.split('.'))[0])
+		return glist
 	def scroll(self):
 		SCROLL_PAUSE_TIME = 10
 
